@@ -1,0 +1,28 @@
+{
+  "author": "Andreas Schmid <andreas@nex9.com>",
+  "name": "normalize",
+  "description": "Path Normalize function",
+  "tags": [
+    "normalize",
+    "url"
+  ],
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Nex9/normalize.git"
+  },
+  "engines": {
+    "node": "~0.10.38"
+  },
+  "dependencies": {
+    "lodash": "~3.10.1"
+  },
+  "devDependencies": {
+    "coffee-script": "~1.10.0"
+  },
+  "scripts": {
+    "pretest": "cake build",
+    "prepublish": "cake build",
+    "test": ""
+  }
+}
