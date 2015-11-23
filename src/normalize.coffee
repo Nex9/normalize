@@ -1,4 +1,4 @@
-lodash = require('lodash')
+_ = require('lodash')
 
 normalize = (s) ->
   return if typeof s isnt 'string'
