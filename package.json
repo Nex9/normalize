@@ -11,14 +11,15 @@
     "type": "git",
     "url": "git@github.com:Nex9/normalize.git"
   },
-  "engines": {
-    "node": "~0.10.38"
-  },
+  "main": "lib/normalize.js",
   "dependencies": {
     "lodash": "~3.10.1"
   },
   "devDependencies": {
     "coffee-script": "~1.10.0"
+  },
+  "engines": {
+    "node": "~0.10.x"
   },
   "scripts": {
     "pretest": "cake build",
