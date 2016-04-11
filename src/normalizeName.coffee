@@ -1,6 +1,6 @@
 _ = require('lodash')
 
-normalize = (s) ->
+normalizeName = (s) ->
   return if typeof s isnt 'string'
 
   s = s.trim().toLowerCase()
@@ -27,4 +27,4 @@ normalize = (s) ->
   )
 
 
-module.exports = normalize
+module.exports = normalizeName
