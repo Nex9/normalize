@@ -6,12 +6,12 @@
     "normalize",
     "url"
   ],
-  "version": "0.3.2",
+  "version": "0.3.3",
   "repository": {
     "type": "git",
     "url": "git@github.com:Nex9/normalizeName.git"
   },
-  "main": "lib/normalize.js",
+  "main": "lib/normalizeName.js",
   "dependencies": {
     "lodash": "4.10.0"
   },
