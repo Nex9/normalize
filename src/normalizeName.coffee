@@ -10,7 +10,7 @@ normalizeName = (s) ->
     "ö"   : "oe"
     "ü"   : "ue"
     "&"   : "and"
-    "\\+" : "and"
+    "\\+" : "plus"
     "ß"   : "ss"
     "@"   : "at"
 
