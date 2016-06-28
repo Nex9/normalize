@@ -1,6 +1,6 @@
 {
   "author": "Andreas Schmid <andreas@nex9.com>",
-  "name": "normalizename",
+  "name": "normalizeName",
   "description": "Name Normalize function",
   "tags": [
     "normalize",
