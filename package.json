@@ -1,12 +1,12 @@
 {
-  "author": "Andreas Schmid <andreas@nex9.com>",
+  "author": "Christof Haemmerle <reco@nex9.com>",
   "name": "normalizeName",
   "description": "Name Normalize function",
   "tags": [
     "normalize",
     "url"
   ],
-  "version": "0.4.0",
+  "version": "0.4.1",
   "repository": {
     "type": "git",
     "url": "git@github.com:Nex9/normalizeName.git"
