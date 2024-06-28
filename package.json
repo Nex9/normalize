@@ -6,10 +6,10 @@
     "normalize",
     "url"
   ],
-  "version": "0.4.1",
+  "version": "0.4.3",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Nex9/normalizeName.git"
+    "url": "https://github.com/Nex9/normalizeName"
   },
   "main": "lib/normalizeName.js",
   "dependencies": {
@@ -19,7 +19,7 @@
     "coffee-script": "^1.12.7"
   },
   "engines": {
-    "node": "~4.x.x"
+    "node": ">=4"
   },
   "scripts": {
     "pretest": "cake build",
